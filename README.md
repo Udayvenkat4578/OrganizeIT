@@ -23,10 +23,10 @@ Overall, "OrganizeIT" is a task management application that leverages modern web
 
 ## Demo
 
-[View the Demo](https://your-demo-url.com)
+[View the Demo ,Hosted using netlify](https://organize-it.netlify.app/)
 
 ## Screenshots
 
-![Desktop View](screenshots/desktop.png)
+![Desktop View](https://github.com/Udayvenkat4578/OrganizeIT/blob/main/temp.png)
 
-![Mobile View](screenshots/mobile.png)
+![Mobile View](https://github.com/Udayvenkat4578/OrganizeIT/blob/main/temp1.png)
