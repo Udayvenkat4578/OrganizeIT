@@ -27,6 +27,6 @@ Overall, "OrganizeIT" is a task management application that leverages modern web
 
 ## Screenshots
 
-![Desktop View](https://github.com/Udayvenkat4578/OrganizeIT/blob/main/temp.png)
+[Desktop View](https://github.com/Udayvenkat4578/OrganizeIT/blob/main/temp.png)
 
-![Mobile View](https://github.com/Udayvenkat4578/OrganizeIT/blob/main/temp1.png)
+[Mobile View](https://github.com/Udayvenkat4578/OrganizeIT/blob/main/temp1.png)
